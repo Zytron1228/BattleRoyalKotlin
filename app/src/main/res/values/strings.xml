@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AiFight</string>
+    <string name="playerHp">%s HP</string>
+    <string name="enemy1Hp">%s HP</string>
+    <string name="enemy2Hp">%s HP</string>
+    <string name="fightLogText">Player %s. \n\nEnemy 1 %s. \n\nEnemy 2 %s.</string>
+</resources>
